@@ -9,4 +9,6 @@ We have identified multiple parameters affecting the welding process and recorde
 dataset from past activities. Process parameters such as ambient temperature, weld job
 temperature, humidity, voltage current, welding travel speed, shielding gas flow, and metal
 composition. For advanced analytics machine data, welder details are provided.
+# link to the data:-
+https://docs.google.com/spreadsheets/d/1PifuLam1mMntrI0dPTWJosTYUWt8elwi/edit?usp=share_link&ouid=107098656021209623719&rtpof=true&sd=true
 
