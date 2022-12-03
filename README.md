@@ -4,3 +4,9 @@ developing algorithms using the provided parameters. Participants are free to us
 technique provided it is suited for the variety and volume of data provided.
 The end goal of this competition is to enable the Godrej Aerospace team to produce
 defect-free products every time.
+# DATA PROVIDED
+We have identified multiple parameters affecting the welding process and recorded the
+dataset from past activities. Process parameters such as ambient temperature, weld job
+temperature, humidity, voltage current, welding travel speed, shielding gas flow, and metal
+composition. For advanced analytics machine data, welder details are provided.
+
